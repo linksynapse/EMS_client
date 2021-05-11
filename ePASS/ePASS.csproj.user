@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="MD_BulkUploadExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MD_BulkUploadImg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PU_DatePick.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MD_AddCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MD_AddEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MD_Company.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MD_ModifyCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MD_Progress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MD_Logo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
